@@ -1,2 +1,2 @@
 # Kaggle_renthop
-# The feature engineering part of the Kaggle competition-Rental listing inquiries
+# The incomplete version of the code I still keep for the Kaggle competition-Rental Listing Inquiries
